@@ -26,7 +26,7 @@ const HeroSection = () => {
         {/* Logo */}
         <div className="flex items-center">
           <img
-            src="/src/assets/logo.png"
+            src="/logo.png"
             alt="Aaple Guruji"
             className="h-14 w-auto object-contain"
           />
